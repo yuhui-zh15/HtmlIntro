@@ -1,0 +1,103 @@
+<style>
+div.word
+{
+font-size: 12px;
+}
+div.container
+{
+width:84%;
+margin:0px auto;
+border:1px solid gray;
+line-height:150%;
+text-align:center;
+
+}
+div.header,div.footer
+{
+padding:0.5em;
+color:white;
+background-color:gray;
+clear:left;
+}
+h1.header
+{
+padding:0;
+margin:0;
+}
+div.left
+{
+float:left;
+width:160px;
+margin:0;
+padding:1em;
+}
+div.content
+{
+margin-left:190px;
+border-left:1px solid gray;
+padding:1em;
+}
+#Layer3 {
+	position:absolute;
+	left:241px;
+	top:789px;
+	width:89px;
+	height:42px;
+	z-index:2;
+}
+#Layer4 {
+	position:absolute;
+	left:47px;
+	top:-301px;
+	width:127px;
+	height:49px;
+	padding:10px;
+	z-index:1;
+	background-color: #DDDDDD;
+	visibility: hidden;
+}
+#Layer5 {
+	position:absolute;
+	left:46px;
+	top:-244px;
+	width:127px;
+	height:49px;
+	padding:10px;
+	z-index:2;
+	background-color: #DDDDDD;
+	visibility: hidden;
+}
+#Layer6 {
+	position:absolute;
+	left:286px;
+	top:607px;
+	width:129px;
+	height:49px;
+	padding:10px;
+	z-index:1;
+	background-color: #DDDDDD;
+}
+#Layer7 {
+	position:absolute;
+	left:45px;
+	top:-130px;
+	width:130px;
+	height:81px;
+	padding:10px;
+	z-index:3;
+	background-color: #DDDDDD;
+	visibility: hidden;
+}
+#Layer8 {
+	position:absolute;
+	left:46px;
+	top:-184px;
+	width:129px;
+	height:49px;
+	padding:10px;
+	z-index:4;
+	background-color: #DDDDDD;
+	visibility: hidden;
+}
+.STYLE1 {font-size: 14px}
+</style>
